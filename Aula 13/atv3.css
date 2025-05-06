@@ -1,0 +1,13 @@
+a::before{
+    content: "[>>]";
+    color: yellow;
+    text-decoration: none;
+}
+a:after{
+    content:'[link]';
+    text-decoration: none;
+    color:red;
+}
+a{ 
+    text-decoration: none;
+}
